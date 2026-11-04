@@ -1,0 +1,8 @@
+{
+  "name": "bet-sync-access-server",
+  "version": "1.0.0",
+  "description": "Login / access-control server for the Bet Sync Browser",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
